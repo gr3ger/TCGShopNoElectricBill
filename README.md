@@ -3,4 +3,6 @@ A simple BepInEx mod to remove the need to pay electric bills in TCG Card Shop S
 
 ### Usage
 Install BepInEx 5 from [their github](https://github.com/BepInEx/BepInEx/releases)
-then drop the extracted folder into your game folder and then start the game, it will automatically clear the electric bill whenever the game would normally update the due payments.
+then drop the extracted folder into your game folder.
+
+When you start the game it will automatically clear the electric bill whenever the game would normally update the due payments.
