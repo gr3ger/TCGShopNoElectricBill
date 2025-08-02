@@ -37,6 +37,7 @@ public class Plugin : BaseUnityPlugin
     {
         Logger.LogInfo("Zeroing out Electric Bill");
         var bill = CPlayerData.GetBill(EBillType.Electric);
+        bill.billDayPassed = 0;
         bill.amountToPay = 0;
     }
 }
