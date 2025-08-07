@@ -1,4 +1,4 @@
-﻿/TCGNoElectricBills/bin/
-/TCGNoElectricBills/obj/
-/TCGNoElectricBills.sln.DotSettings.user
+﻿*/bin/**
+*/obj/**
+/*.sln.DotSettings.user
 .idea/**
